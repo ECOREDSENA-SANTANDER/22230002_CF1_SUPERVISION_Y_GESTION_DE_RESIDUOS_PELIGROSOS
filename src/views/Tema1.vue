@@ -308,4 +308,253 @@
       #t_1_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
         h2 1.4 Clasificación e identificación de características de peligrosidad
 
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+        .col-lg-3.col-sm-5.col-6.my-2
+          img(src="@/assets/curso/temas/tema1/img13.png")
+        .col-lg-9.col-sm-6.col-9
+          SlyderF.mb-5(columnas="col-lg-5 col-xl-5")(data-aos="zoom-in-left")
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center
+                .col-sm-.col-lg-6.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema1/ico1.png')
+              .row.justify-content-center
+                .col-lg-8.bg13.p-1
+                  h4.text-center Corrosivo
+                .py-2
+                  p.text-center Son sustancias y preparados que, en contacto con tejidos vivos pueden ejercer una acción destructiva de los mismos.
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center
+                .col-sm-5.col-lg-6.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema1/ico2.png')
+              .row.justify-content-center
+                .col-lg-8.bg13.p-1
+                  h4.text-center Explosivo
+                .py-2
+                  p.text-center Las sustancias y preparados que, incluso en ausencia de oxígeno del aire, puedan reaccionar de forma exotérmica.
+              
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center
+                .col-sm-5.col-lg-6.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema1/ico3.png')
+              .row.justify-content-center
+                .col-lg-8.bg13.p-1
+                  h4.text-center Inflamable
+                .py-2
+                  p.text-center Son aquellas sustancia o productos que tienen la capacidad de entrar en combustión, es decir de arder.
+              
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center
+                .col-sm-5.col-lg-6.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema1/ico4.png')
+              .row.justify-content-center
+                .col-lg-8.bg13.p-1
+                  h4.text-center Comburente
+                .py-2
+                  p.text-center Son sustancias y preparados que, en contacto con otras sustancias, en especial con sustancias inflamables, produzcan una reacción fuertemente exotérmica.
+              
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center
+                .col-sm-5.col-lg-6.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema1/ico5.png')
+              .row.justify-content-center
+                .col-lg-8.bg13.p-1
+                  h4.text-center Irritante
+                .py-2
+                  p.text-center Son aquellas sustancias o preparados no corrosivos que, por contacto inmediato, prolongado o repetido con la piel o mucosas, pueden provocar una reacción inflamatoria.
+              
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center
+                .col-sm-5.col-lg-6.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema1/ico6.png')
+                
+              .row.justify-content-center
+                .col-lg-8.bg13.p-1
+                  h4.text-center Tóxico
+                .py-2
+                  p.text-center Las sustancias y preparados que, por inhalación' ingestión o penetración cutánea en pequeñas cantidades puedan provocar efectos agudos o crónicos e incluso la muerte.
+              
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center
+                .col-sm-5.col-lg-6.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema1/ico7.png')
+                
+              .row.justify-content-center
+                .col-lg-8.bg13.p-1
+                  h4.text-center Cancerigenos, mutágenos y teratógenos
+
+                .py-2
+                  p.text-center Las sustancias y preparados que, por inhalación, ingestión o penetración cutánea, puedan producir cáncer o aumentar su frecuencia.
+              
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center
+                .col-sm-5.col-lg-6.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema1/ico8.png')
+              .row.justify-content-center
+                .col-lg-8.bg13.p-1
+                  h4.text-center Peligrosos para el medio ambiente
+
+                .py-2
+                  p.text-center El contacto de esa sustancia con el medio ambiente puede provocar daños al ecosistema a corto o largo plazo. 
+      .row.justify-content-center.align-items-center.mb-2
+        .col-lg-6
+          .titulo-sexto.color-acento-contenido
+            h5 Figura 7. 
+            span
+              |   Clasificación e identificación de características de peligrosidad
+          img(src="@/assets/curso/temas/tema1/img14.svg", alt="en el diagrama se presentan las herramientas de apoyo para identificar características de peligrosidad: Listas de residuos, balance de masa, hojas de seguridad y caracterización analítica.")
+      .py-3  
+      .color-primario.p-4
+        .row.justify-content-center.align-items-center.p-3
+          .col-lg-12.col-12
+           .bgimg2.p-4
+              SlyderA(tipo="b").p-3
+                .row.justify-content-center.p-1
+                  .col-lg-7.col-12
+                    h5.mb-3 Listas de residuos
+                    p Las listas de residuos son una herramienta valiosa para identificar si un residuo es peligroso o no. En el Anexo I y II del Decreto 4741 de 2005 se encuentran los listados de los residuos peligroso con su respectivo código. 
+                    p Ejemplo: en una fábrica de pintura se generan envases con trazas de barniz, de acuerdo con el Anexo 1 estaría clasificado como: 
+                    p Y12 Desechos resultantes de la producción, preparación y utilización de tintas, colorantes, pigmentos, pinturas, lacas o barnices.
+                  .col-lg-5
+                    img(src="@/assets/curso/temas/tema1/img14.png")
+
+                .row.justify-content-center.p-1
+                  .col-lg-12
+                    h5.mb-3 Balance de masa
+                    p Teniendo como principio que las entradas en un proceso me van a generar unos productos y residuos, si se identifica en un balance de masas que residuos se tienen, se pueden consultar las listas de residuos peligrosos y verificar la peligrosidad de estos.
+                  .col-lg-7
+                    .titulo-sexto.color-acento-contenido
+                      h5 Figura 8.
+                      span
+                        |  Ingresos para un balance de masa
+                    img(src="@/assets/curso/temas/tema1/img15.png", alt="en el diagrama se presentan las entradas (materias primas, reactivos químicos, agua, aire y otros insumos) y las salidas (residuos sólidos o semi-sólidos, aguas residuales, emisiones gaseosas, no identificados, productos y subproductos) en una planta, proceso u operación.")
+                    figcaption Fuente: Estrucplan, 2006
+
+                .row.justify-content-center.p-1
+                  .col-lg-7
+                    h5.mb-3 Hojas de seguridad
+                    p Las hojas de seguridad identifican que característica de peligrosidad contiene la sustancia y de esta forma la podemos identificar y clasificar.
+                  .col-lg-5
+                    img(src="@/assets/curso/temas/tema1/img16.png")
+
+                .row.justify-content-center.p-1
+                  .col-lg-7
+                    h5.mb-3 Caracterización analítica 
+                    p La caracterización analítica ayuda a determinar las características de peligrosidad de una sustancia. 
+                  .col-lg-5
+                    img(src="@/assets/curso/temas/tema1/img17.png")
+      .py-2             
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-6
+          .cajon.color-primario1.p-4.mb-4
+            .h5  Resolución 0063 de 2024 
+            p Por la cual se adoptan los métodos de muestreo y ensayo para determinar las caracteristicas de peligrosidad en los residuos, se establecen otras disposiciones. 
+      
+      separador
+      #t_1_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+        h2 1.5 Cuantificación de la generación
+      
+      .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+        .col-sm-12.col-lg-7
+          .d-flex.align-items-center
+            img.w-card-icon(src="@/assets/curso/temas/tema1/icono.svg")
+            h3.bg13.py-2.w-card-text Cuantificar los residuos generados en kilogramos
+
+      p.mb-5 Para realizar este proceso, se debe escoger el instrumento de preferencia, lo importante es garantizar que siempre este calibrado, cabe resaltar que para manipular los residuos peligrosos se deben utilizar los elementos de protección personal, los cuales se especifican en las hojas de seguridad y son suministrados juntos con las instrucciones del área de seguridad y salud en el trabajo. 
+    
+    .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-left")
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 9.
+          span
+            | Proceso de cuantificación
+        img(src="@/assets/curso/temas/tema1/img18.png")
+      .py-4
+      .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+        .col-sm-12.col-lg-7
+          .d-flex.align-items-center
+            img.w-card-icon(src="@/assets/curso/temas/tema1/icono.svg")
+            h3.bg13.py-2.w-card-text Llevar registros mensuales sobre la cantidad generada 
+
+      .py-3
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-8
+          .titulo-sexto.color-acento-contenido
+            h5 Tabla 2.  
+            span
+              |  Categoría de generadores de RESPEL
+          .tabla-a.color-acento-contenido.mb-5
+            table
+              thead
+                tr.text-center
+                  th Categoría
+                  th Generación de residuos o derechos peligrosos*
+              tbody.text-center
+                tr.gris
+                  td Gran generador
+                  td ≥ 1000 kg/mes RESPEL generados
+                tr
+                  td Mediano generador
+                  td ≥ 100 kg/mes RESPEL generados < 1000 kg/mes
+                tr.gris
+                  td Pequeño generador
+                  td ≥ 10 kg/mes RESPEL generados < 100 kg/mes
+      
+      .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+        .col-lg-9
+          .row.align-items-center.justify-content-center.mb-4
+            .col-lg-12.col-md-12.col-12
+              .tarjeta--container.row
+                .col-md.tarjeta.color-acento-contenido.d-none.d-lg-block
+                  .row.justify-content-center.align-items-center
+                    .col-11
+                      figure
+                        img.d-none.d-lg-block(src='@/assets/curso/temas/tema1/img19.png', alt='tema1')
+                .col-md.tarjeta.color-adicional.p-0
+                  .row.align-items-center.mb-2.p-4
+                    .col-lg-12
+                      ul.lista-ul--color
+                        li
+                          i.fas.fa-biohazard
+                          | Promedio ponderado y media móvil de los últimos seis meses de las cantidades pesadas. 
+                        li
+                          i.fas.fa-biohazard
+                          | Facilita al generador clasificarse en las categorías establecidas por el Decreto 4741 de 2005.
+                        li
+                          i.fas.fa-biohazard
+                          | Ayuda a monitorear el cumplimiento de los objetivos y metas. 
+        .col-lg-3
+          img(src='@/assets/curso/temas/tema1/img20.png', alt='tema1')     
+      
+      .row.justify-content-start.mb-4
+        .col-sm-12.col-lg-7
+          .d-flex.align-items-center
+            h3.bg131.py-2.w-card-text Cálculo del promedio y media móvil
+
+      .py-3
+      .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+        .col-lg-12
+          .titulo-sexto.color-acento-contenido
+            h5 Tabla 3.
+            span
+              |  Categoría de generadores de RESPEL
+          .tabla-a.color-acento-contenido.mb-5
+            table
+              thead
+                tr.text-center
+                  th Mes 
+                  th Envases con barniz (kg/mes)
+                  th Aceite usado (kg/mes)
+                  th Total RESPEL (kg/mes)
+
+              tbody.text-center
+                tr.gris
+                  td Gran generador
+                  td ≥ 1000 kg/mes RESPEL generados
+                tr
+                  td Mediano generador
+                  td ≥ 100 kg/mes RESPEL generados < 1000 kg/mes
+                tr.gris
+                  td Pequeño generador
+                  td ≥ 10 kg/mes RESPEL generados < 100 kg/mes
+
 </template>
