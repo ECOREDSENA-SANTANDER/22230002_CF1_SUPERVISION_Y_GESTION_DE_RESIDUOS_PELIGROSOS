@@ -519,5 +519,82 @@
                 h5 Figura 11. 
                 span
                   | Procedimiento manejo interno residuos peligrosos
-              img(src='@/assets/curso/temas/tema2/img22.png', alt='tema1')
+              img(src='@/assets/curso/temas/tema2/img22.png', alt='En el diagrama se detallan los elementos de un plan de acción: -Estrategias operativas: plantea acciones a aplicar en caso de ocurrir una contingencia por manipulación, movilización o almacenamiento de residuos peligrosos. -Análisis de riesgos: identifica y evalúa cuáles son los eventos o condiciones que pueden ocasionar una emergencia. -Identificación de peligros y amenazas: el peligro es una situación con potencial de daño, enfermedad, lesiones, daños en edificaciones, ambientes de trabajo y medio ambiente.  la amenaza es la probabilidad de que un fenómeno natural o humano pueda causar daño y generar perdidas.')
+  
+      .py-4
+      .row.justify-content-center
+        .col-lg-12
+          .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+            .bloque-texto-g__img(
+              :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img23.png')})`}"
+            )
+            .bloque-texto-g__texto.p-4
+              p.mb-0 En el plan de acción la organización puede hacer uso de una herramienta informática para realizar el análisis correspondiente y establecerlo a través de una matriz de análisis. Los aspectos que se pueden tener en cuenta son:
+              p.mb-0 Derrame de residuos peligrosos, incendios, explosiones, sismos, interrupción de servicios de agua y energía, aumento o acumulación de residuos, incompatibilidad en el almacenamiento de los residuos, separación inadecuada, no recolección de los residuos por parte de la empresa gestora, dificultades en el tratamiento térmico de los residuos, accidentes laborales, etc. 
+        .col-lg-8
+          
+          .cajon.bg6.p-4.mb-4
+            h5 Los derrames de residuos peligrosos un evento de incidencia
+            p En caso de presentarse un derrame de residuos peligrosos, el plan de contingencia que se plantee debe seguir los lineamientos establecidos en el Decreto 321 de 1999 por el que se adopta el Plan Nacional de Contingencia contra Derrames de Hidrocarburos, Derivados y Sustancias Nocivas.
+      
+      .py-3
+        .col-sm-12.col-lg-7
+          .d-flex
+            h3.bg131.py-2.w-card-text1 Medidas en caso de derrames de residuos peligrosos
+
+
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-9.bg11.p-4
+          ul.lista-ul--color
+            li
+              i.fas.fa-biohazard
+              | Comunicar al encargado del plan de contingencias informando localización y otros detalles que se soliciten para tomar acciones oportunas.
+
+
+            li
+              i.fas.fa-biohazard
+              | El piso debe ser libre de grietas y resistente a los residuos que se almacenen.
+
+            li
+              i.fas.fa-biohazard
+              | Revisar las hojas de seguridad para tomar las medidas establecidas en ellas y disminuir los riesgos.
+
+            li
+              i.fas.fa-biohazard
+              | Si es un derrame con potencial de incendio o explosión suspender actividades en el área de riesgo. 
+
+
+            li
+              i.fas.fa-biohazard
+              | Señalar y demarcar el área donde ocurrió el incidente. 
+            li
+              i.fas.fa-biohazard
+              | Si es posible construir manualmente un dique para rodear la zona del derrame. 
+            li
+              i.fas.fa-biohazard
+              | Aislar y controlar la fuente del derrame y proteger los desagües. 
+            li
+              i.fas.fa-biohazard
+              | Contener y cubrir con material absorbente apropiado, usar kit antiderrame, equipos, o maquinarias especializadas. 
+
+            li
+              i.fas.fa-biohazard
+              | Asegurar la disponibilidad, estado y correcto uso de EPP como respirador multipropósito, gafas de seguridad, traje de protección y guantes de nitrilo. 
+
+            li
+              i.fas.fa-biohazard
+              | Se debe registrar la entrada al depósito en una planilla de ingreso (fecha, peso, nombre, etc.)
+            li
+              i.fas.fa-biohazard
+              | Contar con un sistema de lavado de ropa contaminada. 
+
+            li
+              i.fas.fa-biohazard
+              | Solicitar apoyo externo en caso de no poder manejarse. 
+
+        .col-lg-3
+          img(src='@/assets/curso/temas/tema2/img24.png')
+
+
 </template>
