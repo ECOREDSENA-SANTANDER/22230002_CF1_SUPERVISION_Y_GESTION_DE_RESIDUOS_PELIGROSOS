@@ -37,55 +37,63 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Componentes',
+        titulo: 'Prevención y minimización',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Encabezados',
-            hash: 'encabezados',
+            titulo: '¿Qué es un residuo peligroso?',
+            hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Párrafos',
-            hash: 'parrafos',
+            titulo:
+              '¿Qué es un plan de gestión integral de residuos peligrosos? ',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Identificación de fuentes de generación ',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo:
+              'Clasificación e identificación de características de peligrosidad',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Cuantificación de la generación',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Alternativas de prevención y minimización.',
+            hash: 't_1_6',
           },
         ],
       },
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Producción Audiovisual',
+        titulo: 'Manejo interno de los residuos sólidos peligrosos',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Infografía Animada',
+            titulo: 'Procedimiento',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Video Motion',
+            titulo: 'Aspectos para tener en cuenta',
             hash: 't_2_2',
           },
-        ],
-      },
-      {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'Fundamentación Textil',
-        desarrolloContenidos: true,
-        subMenu: [
           {
-            numero: '3.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-            hash: 't_3_1',
-          },
-          {
-            numero: '3.2',
-            titulo: 'Identificación fibras por combustión',
-            hash: 't_3_2',
+            numero: '2.3',
+            titulo: 'Contingencias en manejo de residuos peligrosos',
+            hash: 't_2_3',
           },
         ],
       },
@@ -138,132 +146,104 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'de Los Desechos Peligrosos Y Su Eliminación, S. E. L. C. D. E. L. M. T. (s/f). CONVENIO DE BASILEA. Basel.int. Recuperado el 2 de septiembre de 2024, de',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.basel.int/Portals/4/Basel%20Convention/docs/text/BaselConventionText-s.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2007). Gestión Integral de Residuos o Desechos Peligrosos. Bogotá, Colombia: Ministerio de Ambiente, Vivienda y Desarrollo Territorial. ',
+      link: '',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Ministerio de Ambiente, Vivienda y Desarrollo Territorial. Decreto 4741 de 2005. Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos generados en el marco de la gestión integral. Consultado el 03 de agosto de 2014, en',
+      link: 'http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=18718',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
-      significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+      termino: 'Acondicionamiento ',
+      significado: 'NO PERMITE DILIGENCIAR LOS TEXTOS DEL DI SON MUY LARGOS',
     },
     {
-      termino: '<em>Suftware</em>',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'Comburente',
+      significado: '',
     },
     {
-      termino: 'Pirognóstico',
-      significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+      termino: 'Contingencia ',
+      significado: '',
     },
     {
-      termino: '<em>Áctores</em>',
-      significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+      termino: 'EPP ',
+      significado: '',
     },
     {
-      termino: 'Moda',
-      significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+      termino: 'Irritante  ',
+      significado: '',
     },
     {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+      termino: 'Peligrosidad ',
+      significado: '',
     },
     {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+      termino: 'PMIRESPEL ',
+      significado: '',
     },
     {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+      termino: 'Plan de Acción ',
+      significado: '',
     },
     {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+      termino: 'RESPEL ',
+      significado: '',
     },
     {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'Tóxico',
+      significado: '',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Etiquetado de materiales peligrosos',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'YouTube. (s/f). Youtu.Be. Recuperado de https://youtu.be/1vGRTvAgqso ',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/1vGRTvAgqso',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Manejo de residuos peligrosos ',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'YouTube. (s/f). Youtu.Be. Recuperado de https://youtu.be/AbUirfP7h1Y ',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/AbUirfP7h1Y ',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Manejo y transporte seguro de residuos peligrosos',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'YouTube. (s/f). Youtu.Be. Recuperado de https://youtu.be/uDJRkt3khpU',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/uDJRkt3khpU ',
+    },
+    {
+      tema: 'Materiales peligrosos ',
+      referencia:
+        'YouTube. (s/f). Youtu.Be. Recuperado de https://youtu.be/79b8q3UCjDc ',
+      tipo: 'Video',
+      link: 'https://youtu.be/79b8q3UCjDc',
+    },
+    {
+      tema: 'Manejo de residuos peligrosos',
+      referencia:
+        'YouTube. (s/f). Youtu.Be. Recuperado de  https://youtu.be/t-V8qzBoBU0',
+      tipo: 'Video',
+      link: 'https://youtu.be/t-V8qzBoBU0',
+    },
+    {
+      tema: 'Manual de uso de productos químicos ',
+      referencia: '(S/f-b). Edu.co. Recuperado de Zajuna',
+      tipo: 'Manual',
+      link: '',
     },
   ],
   creditos: [
@@ -272,13 +252,13 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -286,9 +266,42 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Manuel Augusto Arias López',
+          cargo: 'Instructor - Experto temático ',
+          centro: 'Regional Quindío - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Vilma Perilla Méndez',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor Pedagógico',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Julieth Paola Vital López',
+          cargo: 'Correctora de Estilo',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria y la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Martha Isabel Martínez Vargas',
+          cargo: 'Productora audiovisual',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Carolina Jiménez Suescún',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -296,19 +309,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Edison Eduardo Mantilla Cuadros',
           cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Full-Stack',
-          centro: 'Nombre centro de formación',
+          nombre: 'Leonardo Castellanos Rodriguez',
+          cargo: 'Desarrollador <em>Fullstack</em>',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Productor Multimedia',
-          centro: 'Nombre centro de formación',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -316,14 +329,19 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación y Vinculador de RED',
-          centro: 'Nombre centro formación',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre validador',
-          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
-          centro: 'Nombre centro formación',
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },

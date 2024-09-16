@@ -1,2 +1,2 @@
 module.exports =
-  'Componente Formativo con un nombre extremadamente largo y extenso'
+  'Prevención, minimización y manejo interno de residuos sólidos peligrosos.'

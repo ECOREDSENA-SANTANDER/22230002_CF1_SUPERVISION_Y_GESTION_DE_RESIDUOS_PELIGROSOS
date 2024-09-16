@@ -56,7 +56,7 @@
       p.mb-5 Los objetivos y metas deben estar orientados a:
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4
+        .col-lg-4.col-8.py-2
           img(src="@/assets/curso/temas/tema2/img01.png")
         .col-lg-6
           .row.bg5.p-2
@@ -127,11 +127,11 @@
             li
               i.fas.fa-biohazard
               | Se debe mantener continuamente capacitado el personal para que realice una operación segura y correcta de los residuos peligrosos.
-        .col-lg-3
+        .col-lg-3.col-8
           img(src="@/assets/curso/temas/tema2/img03.png")
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-3
+        .col-lg-3.col-8
           img(src="@/assets/curso/temas/tema2/img04.png")
         .col-lg-8.bg9.p-4
           ul.lista-ul--color
@@ -316,6 +316,7 @@
               .row.justify-content-center
                 .col-lg-12.p-1
                   p.text-center Toda organización que genere residuos peligrosos debe disponer de un sitio de almacenamiento temporal para los mismos.
+          .py-2
         .col-lg-3  
           .tarjeta.bgimg3.p-4
             .row.justify-content-center
@@ -324,7 +325,7 @@
               .row.justify-content-center
                 .col-lg-12.p-1
                   p.text-center Toda organización que genere residuos peligrosos debe disponer de un sitio de almacenamiento temporal para los mismos.
-         
+          .py-2
         .col-lg-3
           .tarjeta.bgimg3.p-4
             .row.justify-content-center
@@ -334,6 +335,7 @@
                 .col-lg-12.p-1
                   p.text-center Toda organización que genere residuos peligrosos debe disponer de un sitio de almacenamiento temporal para los mismos.
                 .py-2
+          .py-2
         .col-lg-3 
           .tarjeta.bgimg3.p-4
             .row.justify-content-center
@@ -422,7 +424,7 @@
               i.fas.fa-biohazard
               | Debe ubicarse un extintor cerca del depósito.
 
-        .col-lg-3
+        .col-lg-3.col-8
           img(src='@/assets/curso/temas/tema2/img16.png')
 
       .mb-5 El depósito de residuos peligrosos debe incluir Ecomapa junto con las rutas de recolección de los residuos. Estas rutas deben definirse, demarcarse, socializarse y saberse interpretar.
@@ -503,7 +505,7 @@
       TabsC.color-acento-contenido
         .py-3.py-md-4(titulo="Plan estratégico")
           .row.justify-content-center.align-items-center
-            .col-md-5.p-4
+            .col-md-5.p-4.col-8
               figure
                 img(src='@/assets/curso/temas/tema2/img21.png', alt='tema1')
             .col-md-6.mb-4.mb-md-0
@@ -593,7 +595,7 @@
               i.fas.fa-biohazard
               | Solicitar apoyo externo en caso de no poder manejarse. 
 
-        .col-lg-3
+        .col-lg-3.col-8.col-sm-6
           img(src='@/assets/curso/temas/tema2/img24.png')
 
 
