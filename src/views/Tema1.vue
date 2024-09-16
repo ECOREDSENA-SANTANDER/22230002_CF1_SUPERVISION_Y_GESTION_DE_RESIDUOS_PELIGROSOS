@@ -11,7 +11,7 @@
       h2 1.1¿Qué es un residuo peligroso?
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-      .col-lg-1
+      .col-lg-1.col-4.py-2.col-sm-3
         img(src='@/assets/curso/temas/tema1/img01.svg', alt='')
       .col-lg-11 
         p Según la Universidad Pedagógica Nacional un residuo peligroso es aquel que por sus características intrínsecas puede causar daño a la salud humana o al ambiente. Algunas características que otorgan a un residuo el rango de peligroso son:
@@ -56,9 +56,9 @@
         h2 1.2 ¿Qué es un plan de gestión integral de residuos peligrosos? 
       
       .row.justify-content-center.mb-5(data-aos="zoom-in-left")
-        .col-lg-5
+        .col-lg-5.py-2.col-sm-12
           img(src='@/assets/curso/temas/tema1/img02.png', alt='')
-        .col-lg-1
+        .col-lg-1.col-4.py-2.col-sm-2
           img(src='@/assets/curso/temas/tema1/img01.svg', alt='')
         .col-lg-6
           p De acuerdo con la normatividad ambiental vigente (Decreto 4741 de 2005) los generadores de residuos peligrosos deben elaborar un plan de gestión integral de los residuos peligrosos. 
@@ -109,7 +109,7 @@
                         | Ejecución, seguimiento y evaluación del plan. 
                       .cajon.verde-trans
                         p.p-2 La organización debe generar todos los lineamientos, instructivos, programas o medidas tendientes para cumplir con estos cuatro componentes.
-        .col-lg-3
+        .col-lg-3.col-8
           img(src='@/assets/curso/temas/tema1/img04.png', alt='tema1')
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
@@ -129,7 +129,7 @@
           h4 Características de los objetivos:
         .py-3
         .row.justify-content-center.align-items-center.mb-5
-          .col-lg-4
+          .col-lg-4.py-2.col-sm-8
             img(src="@/assets/curso/temas/tema1/img05.png")
           .col-lg-5
             .row.bg2
@@ -226,7 +226,7 @@
                 li
                   i.fas.fa-biohazard
                   | Cuantificar los residuos generados y los productos, bienes y/o servicio.
-        .col-lg-3
+        .col-lg-3.col-8
           img(src="@/assets/curso/temas/tema1/img09.png")
 
       p.mb-3
@@ -522,7 +522,7 @@
                         li
                           i.fas.fa-biohazard
                           | Ayuda a monitorear el cumplimiento de los objetivos y metas. 
-        .col-lg-3
+        .col-lg-3.col-8
           img(src='@/assets/curso/temas/tema1/img20.png', alt='tema1')     
       
       .row.justify-content-start.mb-4
@@ -548,13 +548,185 @@
 
               tbody.text-center
                 tr.gris
-                  td Gran generador
-                  td ≥ 1000 kg/mes RESPEL generados
+                  td Enero
+                  td 120
+                  td 560
+                  td 680
                 tr
-                  td Mediano generador
-                  td ≥ 100 kg/mes RESPEL generados < 1000 kg/mes
+                  td Febrero
+                  td 115
+                  td 320
+                  td 435
                 tr.gris
-                  td Pequeño generador
-                  td ≥ 10 kg/mes RESPEL generados < 100 kg/mes
+                  td Marzo
+                  td 105
+                  td 415
+                  td 520
+                tr
+                  td Abril
+                  td 125
+                  td 261
+                  td 386
+                tr.gris
+                  td Mayo
+                  td 210
+                  td 604
+                  td 814
+                tr
+                  td Junio
+                  td 120
+                  td 560
+                  td 680
+                tr.gris
+                  td Julio
+                  td 125
+                  td 452
+                  td 577
+                tr
+                  td Agosto
+                  td 120
+                  td 560
+                  td 680
+                tr.gris
+                  td Septiembre
+                  td 108
+                  td 694
+                  td 802
+                tr
+                  td Octubre
+                  td 215
+                  td 613
+                  td 828
+                tr.gris
+                  td Noviembre
+                  td 204
+                  td 471
+                  td 675
+                tr
+                  td Diciembre
+                  td 136
+                  td 521
+                  td 657
+            figcaption caption Total RESPEL generados en el año 7514 kg
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-8
+         img(src='@/assets/curso/temas/tema1/img21.svg', alt='tema1') 
+    
+      .py-3
+      .row.justify-content-center.align-items-center
+        .col-lg-8
+          .titulo-sexto.color-acento-contenido
+            h5 Tabla 4.  
+            span
+              |  Cuantificación RESPEL
+          .tabla-a.color-acento-contenido.mb-5
+            table
+              thead
+                tr.text-center
+                  th Mes 
+                  th Total RESPEL (kg/mes)
+                  th Media móvil (kg/mes)
+              tbody.text-center
+                tr.gris
+                  td Enero
+                  td 680
+                  td -
+                tr
+                  td Febrero
+                  td 435
+                  td -
+                tr.gris
+                  td Marzo
+                  td 520
+                  td -
+                tr
+                  td Abril
+                  td 386
+                  td -
+                tr.gris
+                  td Mayo
+                  td 814
+                  td -
+                tr
+                  td Junio
+                  td 577
+                  td -
+                tr.gris
+                  td Julio
+                  td 438
+                  td 528,83
+                tr
+                  td Agosto
+                  td 802
+                  td 589,50
+                tr.gris
+                  td Septiembre
+                  td 702
+                  td 619,83
+                tr
+                  td Octubre
+                  td 828
+                  td 693,50
+                tr.gris
+                  td Noviembre
+                  td 675
+                  td 670,33
+                tr
+                  td Diciembre
+                  td 657
+                  td 683,66    
+      
+      .row.justify-content-center.align-items-center
+        .col-lg-6
+          img(src='@/assets/curso/temas/tema1/img22.svg', alt='tema1') 
+                
+
+      separador
+      #t_1_6.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+        h2 1.6 Alternativas de prevención y minimización.
+
+      p.mb-5 Prevenir es tratar de evitar la generación de residuos peligrosos, a través de alternativas como la sustitución de las materias primas y una producción más limpia. Por su parte, minimizar es disminuir la generación de residuos a través de prácticas como reducir, recuperar, reusar, reciclar. En la siguiente figura se diagraman ambas definiciones: 
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12
+          .titulo-sexto.color-acento-contenido
+            h5 Figura 10. 
+            span
+              |  Alternativas.
+          img(src='@/assets/curso/temas/tema1/img23.svg', alt='El diagrama consta de dos líneas de flujo donde se definen las palabras prevenir y Minimizar: Prevenir es tratar de evitar la generación de residuos peligrosos, a través de alternativas como la sustitución de materias primas peligrosas y una producción más limpia. Minimizar es disminuir la generación de residuos a través de practicas como reducir, recuperar, reusar y reciclar.') 
+          .py-2
+          p.mb-5 Al realizar algunas modificaciones en diferentes etapas del proceso productivo, es posible prevenir y minimizar el riesgo de los residuos peligrosos sobre la salud y el medio ambiente. A continuación se ejemplifican varias modificaciones:
+
+
+      .row.mb-5
+        .col-sm-6.col-xl-4.mb-4.mb-xl-0
+          .tarjeta.tarjeta-flip.color-primario11(@mouseover="indicadorTarjetaFlip = false")
+            .indicador--hover(v-if="indicadorTarjetaFlip")
+            .tarjeta-flip__contenedor
+              .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img25.png')})`}")
+              .tarjeta-flip__contenido.p-4.p-xl-5
+                h4.text-center.bg13.p-2 Equipos
+                p.text-center Cambio a equipos más eficientes. 
+                p.text-center Mejoramiento de la eficiencia de equipos a través de revisiones o con la ayuda de accesorios o equipos auxiliares.
+ 
+
+        .col-sm-6.col-xl-4.mb-4.mb-xl-0
+          .tarjeta.tarjeta-flip.color-primario11(@mouseover="indicadorTarjetaFlip = false")
+            .tarjeta-flip__contenedor
+              .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img26.png')})`}")
+              .tarjeta-flip__contenido.p-4.p-xl-5
+                h4.text-center.bg13.p-2 Materias primas
+                p.text-center Cambio a materias primas e insumos menos peligrosos. 
+                p.text-center Estudiar alternativas de rehusó y ahorro de materias primas. 
+
+        .col-sm-6.col-xl-4.mb-4.mb-sm-0
+          .tarjeta.tarjeta-flip.color-primario11(@mouseover="indicadorTarjetaFlip = false")
+            .tarjeta-flip__contenedor
+              .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img24.png')})`}")
+              .tarjeta-flip__contenido.p-4.p-xl-5
+                h4.text-center.bg13.p-2 Procesos
+                p.text-center Mejorar las prácticas operacionales. 
+                p.text-center Modificación de procesos para recuperación de materiales.
 
 </template>
