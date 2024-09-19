@@ -10,13 +10,13 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 1.1¿Qué es un residuo peligroso?
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+    .row.mb-5(data-aos="zoom-in-left")
       .col-lg-1.col-4.py-2.col-sm-3
         img(src='@/assets/curso/temas/tema1/img01.svg', alt='')
       .col-lg-11 
         p Según la Universidad Pedagógica Nacional un residuo peligroso es aquel que por sus características intrínsecas puede causar daño a la salud humana o al ambiente. Algunas características que otorgan a un residuo el rango de peligroso son:
 
-    .row.justify-content-center.align-items-center.mb-2
+    .row.mb-2
       .col-lg-5
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
@@ -67,14 +67,14 @@
             p •  Se debe documentar: 
             ul.lista-ul--color
               li.text-center
-                i.fas.fa-biohazard
+                i.fas.fa-skull-crossbones
                 | Las características de peligrosidad. 
               li.text-center
-                i.fas.fa-biohazard
-                | Las características de peligrosidad. 
+                i.fas.fa-skull-crossbones
+                | La cantidad de RESPEL generados.  
               li.text-center
-                i.fas.fa-biohazard
-                | Las características de peligrosidad. 
+                i.fas.fa-skull-crossbones
+                | El manejo que se le hace a los RESPEL. 
       p.mb-5 De acuerdo con los lineamientos para elaborar un Plan de Gestión Integral de Residuos Peligrosos (PGIRESPEL) #[b (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2005)], estos planes deben contemplar los siguientes componentes: 
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
@@ -174,7 +174,7 @@
         .col-lg-12
           img(src="@/assets/curso/temas/tema1/img06.svg", alt='En el diagrama se mencionan las siguientes características de las metas: -Se pueden implementar -No deben ser superficiales -Reales -Medibles -Deben tener tiempo de cumplimiento -No deben ser muy ambiciosas')
           .py-3
-          p.mb-5 Teniendo en cuentas las características de los objetivos y las metas se pueden tomar como ejemplo las siguientes relaciones:
+          p.mb-5 Teniendo en cuenta las características de los objetivos y las metas se pueden tomar como ejemplo las siguientes relaciones:
         
       
       .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-left")
@@ -206,25 +206,25 @@
             .bg4.p-3
               ul.lista-ul--color
                 li
-                  i.fas.fa-biohazard
+                  i.fas.fa-skull-crossbones
                   | Analizar paso a paso de todos los procesos que se den en la compañía. 
                 li
-                  i.fas.fa-biohazard
+                  i.fas.fa-skull-crossbones
                   | Las características de peligrosidad. 
                 li
-                  i.fas.fa-biohazard
+                  i.fas.fa-skull-crossbones
                   | Identificar procesos y sitios de generación de residuos peligrosos. 
                 li
-                  i.fas.fa-biohazard
+                  i.fas.fa-skull-crossbones
                   | Identificar las materias primas y productos que tienen relación o inciden en la generación de residuos peligros.
                 li
-                  i.fas.fa-biohazard
+                  i.fas.fa-skull-crossbones
                   | Revisar las áreas de soporte.
                 li
-                  i.fas.fa-biohazard
+                  i.fas.fa-skull-crossbones
                   | Relacionar la generación de residuos con la producción de bienes y/o servicios. 
                 li
-                  i.fas.fa-biohazard
+                  i.fas.fa-skull-crossbones
                   | Cuantificar los residuos generados y los productos, bienes y/o servicio.
         .col-lg-3.col-8
           img(src="@/assets/curso/temas/tema1/img09.png")
@@ -255,8 +255,8 @@
           figcaption Fuente: Tomado de Quintero, (2009).
 
       .py-3
-      p.mb-5 Al diagramar el proceso productivo es posible identificar las materias primas y productos que tienen relación o inciden en la generación de residuos peligros.
-
+      p.mb-3 Al diagramar el proceso productivo es posible identificar las materias primas y productos que tienen relación o inciden en la generación de residuos peligros.
+      h5.text-red.mb-3 Ejemplo 3. 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8
           .titulo-sexto.color-acento-contenido
@@ -291,7 +291,7 @@
                 tr
                   td Cambio de llantas
                   td Llantas usadas, trapos y estopas
-
+      h5.text-red.mb-3 Ejemplo 4. 
       p.mb-5 Al tomar cada actividad realizada por separado, se pueden analizar más eficazmente los residuos generados en cada una de ellas.
       .row.justify-content-center.align-items-center.mb-2
         .col-lg-8
@@ -311,8 +311,8 @@
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-3.col-sm-5.col-6.my-2
           img(src="@/assets/curso/temas/tema1/img13.png")
-        .col-lg-9.col-sm-6.col-9
-          SlyderF.mb-5(columnas="col-lg-5 col-xl-5")(data-aos="zoom-in-left")
+        .col-lg-9.col-sm-6.col-10
+          SlyderF.mb-5(columnas="col-lg-6 col-xl-6")(data-aos="zoom-in-left")
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center
                 .col-sm-.col-lg-6.my-3.d-none.d-lg-block
@@ -371,7 +371,7 @@
                 .col-lg-8.bg13.p-1
                   h4.text-center Tóxico
                 .py-2
-                  p.text-center Las sustancias y preparados que, por inhalación' ingestión o penetración cutánea en pequeñas cantidades puedan provocar efectos agudos o crónicos e incluso la muerte.
+                  p.text-centerLas sustancias y preparados que, por inhalación, ingestión o penetración cutánea en pequeñas cantidades puedan provocar efectos agudos o crónicos e incluso la muerte.
               
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center
@@ -447,7 +447,7 @@
         .col-lg-6
           .cajon.color-primario1.p-4.mb-4
             .h5  Resolución 0063 de 2024 
-            p Por la cual se adoptan los métodos de muestreo y ensayo para determinar las caracteristicas de peligrosidad en los residuos, se establecen otras disposiciones. 
+            p Por la cual se adoptan los métodos de muestreo y ensayo para determinar las características de peligrosidad en los residuos, se establecen otras disposiciones.  
       
       separador
       #t_1_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -467,7 +467,7 @@
           h5 Figura 9.
           span
             | Proceso de cuantificación
-        img(src="@/assets/curso/temas/tema1/img18.png")
+        img(src="@/assets/curso/temas/tema1/img18.png", alt="La figura presenta una secuencia donde se describen las acciones para realizar el proceso de cuantificación: utilizar los elementos de protección personal, clasificar, empacar y pesar.")
       .py-4
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7
@@ -514,13 +514,13 @@
                     .col-lg-12
                       ul.lista-ul--color
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | Promedio ponderado y media móvil de los últimos seis meses de las cantidades pesadas. 
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | Facilita al generador clasificarse en las categorías establecidas por el Decreto 4741 de 2005.
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | Ayuda a monitorear el cumplimiento de los objetivos y metas. 
         .col-lg-3.col-8
           img(src='@/assets/curso/temas/tema1/img20.png', alt='tema1')     
@@ -728,5 +728,6 @@
                 h4.text-center.bg13.p-2 Procesos
                 p.text-center Mejorar las prácticas operacionales. 
                 p.text-center Modificación de procesos para recuperación de materiales.
-
+        .py-1
+        figcaption Fuente: Información tomada de Novotec consultores, 2012
 </template>

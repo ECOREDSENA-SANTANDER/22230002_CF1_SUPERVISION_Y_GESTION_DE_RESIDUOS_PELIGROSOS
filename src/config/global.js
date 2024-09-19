@@ -164,46 +164,61 @@ export default {
   glosario: [
     {
       termino: 'Acondicionamiento ',
-      significado: 'NO PERMITE DILIGENCIAR LOS TEXTOS DEL DI SON MUY LARGOS',
+      significado:
+        'Es la preparación de un área de la organización para almacenar temporalmente los residuos peligrosos generados dentro de ella. ',
     },
     {
       termino: 'Comburente',
-      significado: '',
+      significado:
+        'Son sustancias y preparados que, en contacto con otras sustancias, en especial con sustancias inflamables, produzcan una reacción fuertemente exotér.mica. ',
     },
     {
       termino: 'Contingencia ',
-      significado: '',
+      significado:
+        'Un acontecimiento que no está previsto, pero tiene posibilidad de ocurrencia. ',
     },
     {
       termino: 'EPP ',
-      significado: '',
+      significado: 'Elementos de protección personal. ',
     },
     {
       termino: 'Irritante  ',
-      significado: '',
+      significado:
+        'Son aquellas sustancias o preparados no corrosivos que, por contacto inmediato, prolongado o repetido con la piel o mucosas, pueden provocar una reacción inflamatoria. ',
     },
     {
       termino: 'Peligrosidad ',
-      significado: '',
+      significado:
+        'La capacidad de un objeto, situación o persona para causar daño o riesgo a la salud o la integridad de alguien. ',
     },
     {
       termino: 'PMIRESPEL ',
-      significado: '',
+      significado: 'Plan de manejo integral de residuos peligrosos. ',
     },
     {
       termino: 'Plan de Acción ',
-      significado: '',
+      significado:
+        'Establece los procedimientos que se deben llevar a cabo en caso de una emergencia. ',
     },
     {
       termino: 'RESPEL ',
-      significado: '',
+      significado: 'Residuos peligrosos ',
     },
     {
       termino: 'Tóxico',
-      significado: '',
+      significado:
+        'Las sustancias y preparados que, por inhalación ingestión o penetración cutánea en pequeñas cantidades puedan provocar efectos agudos o crónicos e incluso la muerte. ',
     },
   ],
   complementario: [
+    {
+      tema: 'Guía para la gestión integral de residuos peligrosos.',
+      referencia:
+        '(S/f). Edu.co. Recuperado de https://www.uptc.edu.co/export/sites/default/sig/doc/2018/guia_residuos.pdf ',
+      tipo: 'Guía',
+      link:
+        'https://www.uptc.edu.co/export/sites/default/sig/doc/2018/guia_residuos.pdf',
+    },
     {
       tema: 'Etiquetado de materiales peligrosos',
       referencia:
@@ -252,12 +267,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -266,41 +281,23 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Manuel Augusto Arias López',
-          cargo: 'Instructor - Experto temático ',
-          centro: 'Regional Quindío - Centro de Comercio y Servicios',
+          nombre: 'Hernando Enrique Bohórquez Ariza ',
+          cargo: 'Experto temático ',
+          centro: 'Centro de Gestión Industrial Regional Distrito Capital ',
         },
         {
-          nombre: 'Vilma Perilla Méndez',
-          cargo: 'Evaluadora Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+          nombre: 'Gissela Alvis Norma Buenaventura ',
+          cargo: 'Asesoras pedagógicas ',
+          centro: 'Centro de Industria y la Construcción ',
         },
         {
-          nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Diseñador Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
-        },
-        {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor Pedagógico',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'Julieth Paola Vital López',
-          cargo: 'Correctora de Estilo',
-          centro:
-            'Regional Distrito Capital - Centro para la Industria y la Comunicación Gráfica',
-        },
-        {
-          nombre: 'Martha Isabel Martínez Vargas',
-          cargo: 'Productora audiovisual',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          nombre: 'Diana Rocío Possos ',
+          cargo: 'Líder ',
+          centro: 'Centro de Industria y de la Construcción ',
         },
         {
           nombre: 'Carolina Jiménez Suescún',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -309,18 +306,18 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Edison Eduardo Mantilla Cuadros',
-          cargo: 'Diseñador de Contenidos Digitales',
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Leonardo Castellanos Rodriguez',
-          cargo: 'Desarrollador <em>Fullstack</em>',
+          cargo: 'Desarrollador <em>fullstack</em>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
-          cargo: 'Animadora y Productora Multimedia',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -329,13 +326,8 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
-        },
-        {
           nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validadora de Recursos Educativos Digitales',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {

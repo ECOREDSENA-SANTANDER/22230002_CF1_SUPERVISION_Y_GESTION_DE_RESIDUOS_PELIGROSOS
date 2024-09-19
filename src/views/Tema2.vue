@@ -29,7 +29,7 @@
           ImagenInfografica
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/temas/tema2/infografia.svg', alt='')
+                img(src='@/assets/curso/temas/tema2/infografia.svg', alt='la figura presenta las etapas del ciclo de manejo interno: Recolección en el punto de generación, movilización interna, acondicionamiento de los residuos, almacenamiento, medidas de entrega al transportador')
 
             .tarjeta.color-primario.p-3(x="38%" y="52%" numero="+")
               .h5.mb-2.text-center Medidas de entrega al transportador
@@ -113,19 +113,19 @@
         .col-lg-8.bg9.p-4
           ul.lista-ul--color
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Se debe conocer y manejar la información de las hojas de seguridad relacionada con las condiciones de manipulación, almacenamiento y disposición. Esta información debe relacionarse con las características químicas de los residuos.
 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | En la manipulación de residuos peligrosos se debe mantener de manera constante el uso de elementos de protección personal por parte del personal encargado. Esto incluye pesaje, manipulación, transvasado, embalado, carga y transporte dentro y fuera del lugar de almacenamiento.
 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Entre los elementos de protección personal se debe contar con: protección ocular, guantes resistentes a químicos, botas o cubiertas resistentes a químicos, máscaras con purificadores, traje de protección.
  
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Se debe mantener continuamente capacitado el personal para que realice una operación segura y correcta de los residuos peligrosos.
         .col-lg-3.col-8
           img(src="@/assets/curso/temas/tema2/img03.png")
@@ -136,25 +136,25 @@
         .col-lg-8.bg9.p-4
           ul.lista-ul--color
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Las personas que manipulen residuos peligrosos deben lavarse y cambiarse de indumentaria antes de ingerir alimentos.
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | El personal debe ser capaz de identificar los riesgos relacionados con la manipulación, almacenamiento y transporte de los residuos.
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Se debe mantener etiquetados los residuos peligrosos en el almacén.
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Los contenedores a los que aplique deben permanecer herméticamente cerrados.
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Los contenedores de los residuos peligrosos deben ser continuamente inspeccionados para verificar el límite de su capacidad.
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | En caso de sucederse un derrame de residuos peligrosos se debe airear el áreay contener la expansión del derrame a través de la construcción manual de un dique.
             li
-              i.fas.fa-biohazard    
+              i.fas.fa-skull-crossbones    
               | En caso de derrames pequeños o goteos se debe colocar recipientes para recolectar el residuo.
 
       .py-3
@@ -178,16 +178,16 @@
                       p.mb-5 Los residuos peligrosos deben depositarse en contenedores apropiados según el estado físico, características de peligrosidad, el volumen generado y compatibilidad con otros residuos, estos envases deben cumplir con:
                       ul.lista-ul--color
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | El material del contenedor debe ser compatible con el residuo, para conocerlo debe revisarse con cuidado la hoja de seguridad. 
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | Debe tener durabilidad, resistencia a golpes y a manipulación.
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | Los contenedores no deben originar pérdidas al ser manipulados.
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | El espesor del material del contenedor debe soportar la manipulación, el traslado y no representar riesgo de filtraciones.
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
@@ -203,18 +203,18 @@
             .bg4.p-4
               ul.lista-ul--color
                 li
-                  i.fas.fa-biohazard
+                  i.fas.fa-skull-crossbones
                   | Se deben utilizar etiquetas de riesgo en envases y embalajes: identificación del residuo, datos del generador, código de identificación del residuo y riesgos que representa el residuo.
                 li
-                  i.fas.fa-biohazard
+                  i.fas.fa-skull-crossbones
                   | Tamaño de la etiqueta 10 x 10 cm y estar fijada sobre el envase o el contenedor.
 
                 li
-                  i.fas.fa-biohazard
+                  i.fas.fa-skull-crossbones
                   | Los envases y embalajes deben estar rotulados y etiquetados de forma clara, legible e indeleble.
 
                 li
-                  i.fas.fa-biohazard
+                  i.fas.fa-skull-crossbones
                   | El etiquetado debe identificar el residuo, tipo de peligro, alertar el manejo, transporte, las medidas de precaución y prohibiciones.
         .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema2/img06.png")
@@ -291,13 +291,13 @@
                       p En el plan se deben describir las actividades a realizarse para transportar dentro de la organización los residuos, incluyendo:
                       ul.lista-ul--color
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | Frecuencias y horarios de recolección.
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | Rutas de circulación.
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | Medios o equipos de carga y movilización.
       .py-3
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
@@ -324,7 +324,7 @@
                 img(src='@/assets/curso/temas/tema2/img11.png')
               .row.justify-content-center
                 .col-lg-12.p-1
-                  p.text-center Toda organización que genere residuos peligrosos debe disponer de un sitio de almacenamiento temporal para los mismos.
+                  p.text-center Debe ser un sitio seguro, aireado, iluminado, demarcado y exclusivo para los residuos peligrosos.
           .py-2
         .col-lg-3
           .tarjeta.bgimg3.p-4
@@ -343,7 +343,7 @@
                 img(src='@/assets/curso/temas/tema2/img13.png')
               .row.justify-content-center
                 .col-lg-12.p-1
-                  p.text-center Toda organización que genere residuos peligrosos debe disponer de un sitio de almacenamiento temporal para los mismos.                                    
+                  p.text-center Los residuos solo deben estar almacenados mientras son entregados a la empresa gestora de los mismos. 
       
       h5.mb-5 Según Álvarez (s.f.) el almacén debe: 
     
@@ -353,19 +353,19 @@
         .col-lg-7
           ul.lista-ul--color
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Tener tantos espacios delimitados como fuera necesario para cada tipo de residuo. 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Los espacios delimitados deben estar identificados claramente.              
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | La delimitación de los espacios se podrá realizar a través de demarcaciones simples en el suelo del almacén o depósito. 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | En el caso de paredes divisorias, estas deberán ser removibles y de material resistente, liso, impermeable y fácil de limpiar. 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | La colocación de los divisores no puede interferir ni con el drenaje del agua del lavado del piso ni con la iluminación natural. 
       
       .row.justify-content-center.align-items-center.mb-2
@@ -387,41 +387,41 @@
         .col-lg-9.bg10.p-4
           ul.lista-ul--color
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Debe estar ubicado en un lugar de fácil acceso para facilitar el transporte de los residuos peligrosos.
 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | El piso debe ser libre de grietas y resistente a los residuos que se almacenen.
 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Debe tener un dique o muro de contención para proteger en caso de derrames.
 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Debe poseer señalización de acuerdo con los residuos almacenados.
 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | El lugar debe mantenerse limpio y organizado.
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Debe tener accesible la matriz de compatibilidad de residuos peligrosos para poder ubicarlos de forma segura.
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Los residuos se deben ubicar cuidadosamente para evitar roturas, derrames e incidentes según características de peligrosidad y compatibilidad.
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Los residuos almacenados se debe agrupar según riesgos comunes y mantener alejados los incompatibles.
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Se deben aislar los residuos con características especiales como los que son tóxicos, cancerígenos o explosivos.
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Se debe registrar la entrada al depósito en una planilla de ingreso (fecha, peso, nombre, etc.)
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Debe ubicarse un extintor cerca del depósito.
 
         .col-lg-3.col-8
@@ -455,24 +455,24 @@
                       h5.bg13.p-3 Qué documentar sobre el manejo interno de los residuos peligrosos:
                       ul.lista-ul--color
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | Las condiciones técnicas y de manipulación en el sitio de almacenamiento de los residuos peligrosos.
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | El tipo de residuos y cantidades que se generan y se encuentran almacenados.
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | Fecha de ingreso y egreso al sitio de almacenamiento de cada tipo de residuo peligroso.
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | Las medidas ambientales que se deben mantener para llevar a cabo el almacenamiento de los residuos peligrosos.
 
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | Los responsables y las funciones relacionadas con el manejo de los residuos peligrosos.
 
                         li
-                          i.fas.fa-biohazard
+                          i.fas.fa-skull-crossbones
                           | Detalle de las actividades relacionadas con el manejo de los residuos peligrosos en cada uno de los cargos. 
 
 
@@ -518,7 +518,7 @@
             .col-md-10.mb-4.mb-md-0
               p establece los procedimientos que se deben llevar a cabo en caso de una emergencia.
               .titulo-sexto.color-acento-contenido
-                h5 Figura 11. 
+                h5 Figura 17. 
                 span
                   | Procedimiento manejo interno residuos peligrosos
               img(src='@/assets/curso/temas/tema2/img22.png', alt='En el diagrama se detallan los elementos de un plan de acción: -Estrategias operativas: plantea acciones a aplicar en caso de ocurrir una contingencia por manipulación, movilización o almacenamiento de residuos peligrosos. -Análisis de riesgos: identifica y evalúa cuáles son los eventos o condiciones que pueden ocasionar una emergencia. -Identificación de peligros y amenazas: el peligro es una situación con potencial de daño, enfermedad, lesiones, daños en edificaciones, ambientes de trabajo y medio ambiente.  la amenaza es la probabilidad de que un fenómeno natural o humano pueda causar daño y generar perdidas.')
@@ -550,49 +550,49 @@
         .col-lg-9.bg11.p-4
           ul.lista-ul--color
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Comunicar al encargado del plan de contingencias informando localización y otros detalles que se soliciten para tomar acciones oportunas.
 
 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | El piso debe ser libre de grietas y resistente a los residuos que se almacenen.
 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Revisar las hojas de seguridad para tomar las medidas establecidas en ellas y disminuir los riesgos.
 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Si es un derrame con potencial de incendio o explosión suspender actividades en el área de riesgo. 
 
 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Señalar y demarcar el área donde ocurrió el incidente. 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Si es posible construir manualmente un dique para rodear la zona del derrame. 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Aislar y controlar la fuente del derrame y proteger los desagües. 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Contener y cubrir con material absorbente apropiado, usar kit antiderrame, equipos, o maquinarias especializadas. 
 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Asegurar la disponibilidad, estado y correcto uso de EPP como respirador multipropósito, gafas de seguridad, traje de protección y guantes de nitrilo. 
 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Se debe registrar la entrada al depósito en una planilla de ingreso (fecha, peso, nombre, etc.)
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Contar con un sistema de lavado de ropa contaminada. 
 
             li
-              i.fas.fa-biohazard
+              i.fas.fa-skull-crossbones
               | Solicitar apoyo externo en caso de no poder manejarse. 
 
         .col-lg-3.col-8.col-sm-6
