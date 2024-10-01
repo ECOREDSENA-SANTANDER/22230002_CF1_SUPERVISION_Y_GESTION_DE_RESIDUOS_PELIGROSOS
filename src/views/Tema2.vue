@@ -152,7 +152,7 @@
               | Los contenedores de los residuos peligrosos deben ser continuamente inspeccionados para verificar el límite de su capacidad.
             li
               i.fas.fa-skull-crossbones
-              | En caso de sucederse un derrame de residuos peligrosos se debe airear el áreay contener la expansión del derrame a través de la construcción manual de un dique.
+              | En caso de sucederse un derrame de residuos peligrosos se debe airear el área y contener la expansión del derrame a través de la construcción manual de un dique.
             li
               i.fas.fa-skull-crossbones    
               | En caso de derrames pequeños o goteos se debe colocar recipientes para recolectar el residuo.
@@ -196,7 +196,7 @@
             img.w-card-icon(src="@/assets/curso/temas/tema1/icono.svg")
             h3.bg13.py-2.w-card-text Acondicionamiento
 
-      p.mb-5 Según el #[b Decreto 1609 de 2002], los envases y embalajes deben estar rotulados y etiquetados según la#[b Norma Técnica Colombiana NTC 1692]. Los residuos no se deben identificar en el momento en que el gestor hace el retiro de ellos.
+      p.mb-5 Según el #[b Decreto 1609 de 2002], los envases y embalajes deben estar rotulados y etiquetados según la #[b Norma Técnica Colombiana NTC 1692]. Los residuos no se deben identificar en el momento en que el gestor hace el retiro de ellos.
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8
           .cajon.bg3.p-4.mb-4
@@ -311,7 +311,7 @@
         .col-lg-3
           .tarjeta.bgimg3.p-4
             .row.justify-content-center
-              .col-sm-.col-lg-6.my-3.d-none.d-lg-block
+              .col-sm-.col-lg-6.my-1.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema2/img10.png')
               .row.justify-content-center
                 .col-lg-12.p-1
@@ -333,18 +333,18 @@
                 img(src='@/assets/curso/temas/tema2/img12.png')
               .row.justify-content-center
                 .col-lg-12.p-1
-                  p.text-center Toda organización que genere residuos peligrosos debe disponer de un sitio de almacenamiento temporal para los mismos.
-                .py-2
+                  p.text-center No se pueden almacenar más de un año en este sitio (Articulo 10 Decreto 4741/2005).
+                .py-4
           .py-2
         .col-lg-3 
           .tarjeta.bgimg3.p-4
-            .row.justify-content-center
-              .col-sm-.col-lg-6.my-3.d-none.d-lg-block
+            .row.justify-content-center.align-items-center
+              .col-sm-.col-lg-6.my-4.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema2/img13.png')
               .row.justify-content-center
                 .col-lg-12.p-1
                   p.text-center Los residuos solo deben estar almacenados mientras son entregados a la empresa gestora de los mismos. 
-      
+                
       h5.mb-5 Según Álvarez (s.f.) el almacén debe: 
     
       .row.justify-content-center.align-items-center.mb-5
@@ -413,7 +413,7 @@
               | Los residuos se deben ubicar cuidadosamente para evitar roturas, derrames e incidentes según características de peligrosidad y compatibilidad.
             li
               i.fas.fa-skull-crossbones
-              | Los residuos almacenados se debe agrupar según riesgos comunes y mantener alejados los incompatibles.
+              | Los residuos almacenados se deben agrupar según riesgos comunes y mantener alejados los incompatibles.
             li
               i.fas.fa-skull-crossbones
               | Se deben aislar los residuos con características especiales como los que son tóxicos, cancerígenos o explosivos.
