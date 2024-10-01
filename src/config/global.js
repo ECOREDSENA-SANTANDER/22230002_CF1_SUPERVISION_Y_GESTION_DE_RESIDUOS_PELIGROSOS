@@ -129,7 +129,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF1_22230002_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -163,23 +163,23 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Acondicionamiento ',
+      termino: 'Acondicionamiento',
       significado:
         'Es la preparación de un área de la organización para almacenar temporalmente los residuos peligrosos generados dentro de ella. ',
     },
     {
       termino: 'Comburente',
       significado:
-        'Son sustancias y preparados que, en contacto con otras sustancias, en especial con sustancias inflamables, produzcan una reacción fuertemente exotér.mica. ',
+        'Son sustancias y preparados que, en contacto con otras sustancias, en especial con sustancias inflamables, produzcan una reacción fuertemente exotérmica.',
     },
     {
-      termino: 'Contingencia ',
+      termino: 'Contingencia',
       significado:
         'Un acontecimiento que no está previsto, pero tiene posibilidad de ocurrencia. ',
     },
     {
-      termino: 'EPP ',
-      significado: 'Elementos de protección personal. ',
+      termino: 'EPP',
+      significado: 'Elementos de protección personal.',
     },
     {
       termino: 'Irritante  ',
@@ -187,22 +187,22 @@ export default {
         'Son aquellas sustancias o preparados no corrosivos que, por contacto inmediato, prolongado o repetido con la piel o mucosas, pueden provocar una reacción inflamatoria. ',
     },
     {
-      termino: 'Peligrosidad ',
+      termino: 'Peligrosidad',
       significado:
         'La capacidad de un objeto, situación o persona para causar daño o riesgo a la salud o la integridad de alguien. ',
     },
     {
-      termino: 'PMIRESPEL ',
+      termino: 'PMIRESPEL',
       significado: 'Plan de manejo integral de residuos peligrosos. ',
     },
     {
-      termino: 'Plan de Acción ',
+      termino: 'Plan de Acción',
       significado:
         'Establece los procedimientos que se deben llevar a cabo en caso de una emergencia. ',
     },
     {
       termino: 'RESPEL ',
-      significado: 'Residuos peligrosos ',
+      significado: 'Residuos peligrosos',
     },
     {
       termino: 'Tóxico',
@@ -274,7 +274,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de línea de producción',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -299,7 +299,7 @@ export default {
         {
           nombre: 'Carolina Jiménez Suescún',
           cargo: 'Evaluadora instruccional',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -309,17 +309,17 @@ export default {
         {
           nombre: 'Yazmin Rocio Figueroa Pacheco',
           cargo: 'Diseñador de contenidos digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Leonardo Castellanos Rodriguez',
           cargo: 'Desarrollador <em>fullstack</em>',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -329,12 +329,12 @@ export default {
         {
           nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validadora de recursos educativos digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },

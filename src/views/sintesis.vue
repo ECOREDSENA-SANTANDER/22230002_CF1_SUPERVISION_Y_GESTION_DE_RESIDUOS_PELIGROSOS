@@ -12,7 +12,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/sintesis.svg", alt="En el diagrama se presentan los contenidos de las unidades del componente formativo: las características para realizar procesos de  prevención y minimización de residuos peligrosos, así como también el procedimiento de manejo interno de residuos.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
