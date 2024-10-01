@@ -258,7 +258,8 @@ export default {
       tema: 'Manual de uso de productos químicos ',
       referencia: '(S/f-b). Edu.co. Recuperado de Zajuna',
       tipo: 'Manual',
-      link: '',
+      link:
+        'https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/CienciasNaturales/22230002/Contenido/DocArtic/mat_apo_13.pdf ',
     },
   ],
   creditos: [
