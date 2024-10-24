@@ -14,7 +14,7 @@
       .col-lg-1.col-4.py-2.col-sm-3
         img(src='@/assets/curso/temas/tema1/img01.svg', alt='')
       .col-lg-11 
-        p Según la Universidad Pedagógica Nacional un residuo peligroso es aquel que por sus características intrínsecas puede causar daño a la salud humana o al ambiente. Algunas características que otorgan a un residuo el rango de peligroso son:
+        p Según la Universidad Pedagógica Nacional, un residuo peligroso es aquel que por sus características intrínsecas puede causar daño a la salud humana o al ambiente. Algunas características que otorgan a un residuo el rango de peligroso son:
 
     .row.mb-2
       .col-lg-5
@@ -29,23 +29,23 @@
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema1/infografia.svg', alt='en el diagrama se enuncian las siguientes características: tóxico, corrosivo, infeccioso, explosivo, inflamable, ecotóxico, reactivo.')
-    
+            figcaption Fuente:SENA
           .tarjeta.color-primario.p-3(x="52%" y="27%" numero="+")
             .h5.mb-2.text-center Explosivo
 
           .tarjeta.color-primario.p-3(x="37%" y="43%" numero="+")
             .h5.mb-2.text-center Corrosivo
 
-          .tarjeta.color-primario.p-3(x="34%" y="73%" numero="+")
+          .tarjeta.color-primario.p-3(x="34%" y="69%" numero="+")
             .h5.mb-2.text-center Ecotóxico
 
-          .tarjeta.color-primario.p-3(x="44%" y="95%" numero="+")
+          .tarjeta.color-primario.p-3(x="44%" y="91%" numero="+")
             .h5.mb-2.text-center Reactivo   
 
-          .tarjeta.color-primario.p-3(x="59%" y="95%" numero="+")
+          .tarjeta.color-primario.p-3(x="59%" y="91%" numero="+")
             .h5.mb-2.text-center Inflamable     
 
-          .tarjeta.color-primario.p-3(x="69%" y="73%" numero="+")
+          .tarjeta.color-primario.p-3(x="69%" y="69%" numero="+")
             .h5.mb-2.text-center Tóxico  
 
           .tarjeta.color-primario.p-3(x="67%" y="43%" numero="+")
@@ -137,28 +137,28 @@
                 li
                 .lista-ol--cuadro__vineta
                   span 1
-                | Viables
+                | Viables.
             .py-2
             .row.bg2
               ol.lista-ol--cuadro
                 li
                 .lista-ol--cuadro__vineta
                   span 2
-                | Coherentes con la organización
+                | Coherentes con la organización.
             .py-2
             .row.bg2
               ol.lista-ol--cuadro
                 li
                 .lista-ol--cuadro__vineta
                   span 3
-                | Reales
+                | Reales.
             .py-2
             .row.bg2
               ol.lista-ol--cuadro
                 li
                 .lista-ol--cuadro__vineta
                   span 4
-                | Que se puedan cumplir     
+                | Que se puedan cumplir.     
       .row.justify-content-start.mb-4
         .col-sm-12.col-lg-7
           .d-flex.align-items-center
@@ -173,8 +173,9 @@
               | Características de las metas
         .col-lg-12
           img(src="@/assets/curso/temas/tema1/img06.svg", alt='En el diagrama se mencionan las siguientes características de las metas: -Se pueden implementar -No deben ser superficiales -Reales -Medibles -Deben tener tiempo de cumplimiento -No deben ser muy ambiciosas')
+          figcaption Fuente: SENA
           .py-3
-          p.mb-5 Teniendo en cuenta las características de los objetivos y las metas se pueden tomar como ejemplo las siguientes relaciones:
+          p.mb-5 Teniendo en cuenta las características de los objetivos y las metas, se pueden tomar como ejemplo las siguientes relaciones:
         
       
       .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-left")

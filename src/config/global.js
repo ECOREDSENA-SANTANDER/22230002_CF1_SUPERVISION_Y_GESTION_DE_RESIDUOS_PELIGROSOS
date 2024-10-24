@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Prevención, minimización y manejo interno de residuos sólidos peligrosos.',
     descripcionCurso:
-      'Para prevenir y/o minimizar los residuos peligrosos dentro de una empresa, es necesario tener claro los proceso, actividades, insumos y materias primas que hacen parte de la planta de producción, con esa información se pueden realizar diferentes análisis y estrategias para llegar a ese objetivo de minimizar los residuos. Por otro lado, pero hacia el mismo objetivo, la empresa se debe comprometer con el buen manejo interno de estos residuos, su alistamiento, rotulado y etiquetado, movilización interna y almacenamiento.',
+      'Para prevenir y/o minimizar los residuos peligrosos dentro de una empresa, es necesario tener claro los procesos, actividades, insumos y materias primas que hacen parte de la planta de producción, con esa información se pueden realizar diferentes análisis y estrategias para llegar a ese objetivo de minimizar los residuos. Por otro lado, pero hacia el mismo objetivo, la empresa se debe comprometer con el buen manejo interno de estos residuos, su alistamiento, rotulado y etiquetado, movilización interna y almacenamiento.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
