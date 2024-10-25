@@ -196,11 +196,25 @@
             h5 Figura 3.
             span
               | Fuentes generadoras
-          img(src="@/assets/curso/temas/tema1/img08.png", alt="En la imagen se presentan 4 imágenes que ejemplifican fuentes generadoras de RESPEL: actividades productivas, actividades del sector servicios, consumo de productos con características peligrosas y hogares. ")
-          figcaption Fuente:SENA
-          .py-2
-        .col-lg-12
-          p.mb-5 Para identificar fuentes generadoras de RESPEL y etapas donde podrian encontrarse, es importante revisar todo el proceso productivo y las áreas de soporte siguiendo cada uno de los siguientes pasos:
+      
+          ImagenInfografica.color-acento-botones
+            template(v-slot:imagen)
+              figure
+              img(src="@/assets/curso/temas/tema1/img08.png", alt="En la imagen se presentan 4 imágenes que ejemplifican fuentes generadoras de RESPEL: actividades productivas, actividades del sector servicios, consumo de productos con características peligrosas y hogares. ")
+              figcaption Fuente:SENA
+            .tarjeta.gris.p-3(x="44%" y="12%" numero="+")
+              .p.mb-2.text-center Que hacen referencia a los procesos industriales o manufactureros que generan residuos peligrosos en la producción de bienes.
+
+            .tarjeta.gris.p-3(x="81%" y="30%" numero="+")
+              .p.mb-2.text-center Donde se incluyen aquellos servicios que también generan residuos peligrosos, como la salud o el mantenimiento.
+
+            .tarjeta.gris.p-3(x="51%" y="61%" numero="+")
+              .p.mb-2.text-center Que señala la generación de RESPEL desde el ámbito doméstico, como el uso de productos de limpieza o electrónicos que pueden convertirse en residuos peligrosos.
+
+            .tarjeta.gris.p-3(x="16%" y="35%" numero="+")
+              .p.mb-2.text-center Que se enfoca en los productos que, por sus propiedades, generan residuos nocivos después de su uso, como baterías o productos químicos.
+              .py-2
+    p.mb-5 Para identificar fuentes generadoras de RESPEL y etapas donde podrian encontrarse, es importante revisar todo el proceso productivo y las áreas de soporte siguiendo cada uno de los siguientes pasos:
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-9
@@ -680,7 +694,7 @@
                   td Diciembre
                   td 657
                   td 683,66    
-      
+            figcaption Fuente: SENA
       .row.justify-content-center.align-items-center
         .col-lg-6
           img(src='@/assets/curso/temas/tema1/img22.svg', alt='tema1') 
@@ -722,7 +736,7 @@
               .tarjeta-flip__contenido.p-4.p-xl-5
                 h4.text-center.bg13.p-2 Materias primas
                 p.text-center Cambio a materias primas e insumos menos peligrosos. 
-                p.text-center Estudiar alternativas de rehusó y ahorro de materias primas. 
+                p.text-center Estudiar alternativas de reuso y ahorro de materias primas. 
 
         .col-sm-6.col-xl-4.mb-4.mb-sm-0
           .tarjeta.tarjeta-flip.color-primario11(@mouseover="indicadorTarjetaFlip = false")
