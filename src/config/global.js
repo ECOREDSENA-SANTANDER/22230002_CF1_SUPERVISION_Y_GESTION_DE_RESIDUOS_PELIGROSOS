@@ -146,7 +146,7 @@ export default {
   referencias: [
     {
       referencia:
-        'de Los Desechos Peligrosos Y Su Eliminación, S. E. L. C. D. E. L. M. T. (s/f). CONVENIO DE BASILEA. Basel.int. Recuperado el 2 de septiembre de 2024, de',
+        'Sobre el control de los movimientos transfronterizos de Los Desechos Peligrosos Y Su Eliminación, S. E. L. C. D. E. L. M. T. (s/f). CONVENIO DE BASILEA. Basel.int. Recuperado el 2 de septiembre de 2024, de',
       link:
         'https://www.basel.int/Portals/4/Basel%20Convention/docs/text/BaselConventionText-s.pdf',
     },
@@ -220,42 +220,42 @@ export default {
         'https://www.uptc.edu.co/export/sites/default/sig/doc/2018/guia_residuos.pdf',
     },
     {
-      tema: 'Etiquetado de materiales peligrosos',
+      tema: 'Etiquetado de materiales peligrosos.',
       referencia:
         'YouTube. (s/f). Youtu.Be. Recuperado de https://youtu.be/1vGRTvAgqso ',
       tipo: 'Video',
       link: 'https://youtu.be/1vGRTvAgqso',
     },
     {
-      tema: 'Manejo de residuos peligrosos ',
+      tema: 'Manejo de residuos peligrosos. ',
       referencia:
         'YouTube. (s/f). Youtu.Be. Recuperado de https://youtu.be/AbUirfP7h1Y ',
       tipo: 'Video',
       link: 'https://youtu.be/AbUirfP7h1Y ',
     },
     {
-      tema: 'Manejo y transporte seguro de residuos peligrosos',
+      tema: 'Manejo y transporte seguro de residuos peligrosos.',
       referencia:
         'YouTube. (s/f). Youtu.Be. Recuperado de https://youtu.be/uDJRkt3khpU',
       tipo: 'Video',
       link: 'https://youtu.be/uDJRkt3khpU ',
     },
     {
-      tema: 'Materiales peligrosos ',
+      tema: 'Materiales peligrosos. ',
       referencia:
         'YouTube. (s/f). Youtu.Be. Recuperado de https://youtu.be/79b8q3UCjDc ',
       tipo: 'Video',
       link: 'https://youtu.be/79b8q3UCjDc',
     },
     {
-      tema: 'Manejo de residuos peligrosos',
+      tema: 'Manejo de residuos peligrosos.',
       referencia:
         'YouTube. (s/f). Youtu.Be. Recuperado de  https://youtu.be/t-V8qzBoBU0',
       tipo: 'Video',
       link: 'https://youtu.be/t-V8qzBoBU0',
     },
     {
-      tema: 'Manual de uso de productos químicos ',
+      tema: 'Manual de uso de productos químicos. ',
       referencia: '(S/f-b). Edu.co. Recuperado de Zajuna',
       tipo: 'Manual',
       link:

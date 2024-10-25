@@ -23,14 +23,15 @@
             h5 Figura 11. 
             span
               | Procedimiento manejo interno residuos peligrosos
-
+            
       .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
         .col-lg-12
           ImagenInfografica
             template(v-slot:imagen)
               figure
                 img(src='@/assets/curso/temas/tema2/infografia.svg', alt='la figura presenta las etapas del ciclo de manejo interno: Recolección en el punto de generación, movilización interna, acondicionamiento de los residuos, almacenamiento, medidas de entrega al transportador')
-
+                figcaption Fuente: SENA
+              .py-4
             .tarjeta.color-primario.p-3(x="38%" y="52%" numero="+")
               .h5.mb-2.text-center Medidas de entrega al transportador
 
@@ -91,7 +92,7 @@
       #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
         h2 2.2 Aspectos para tener en cuenta
 
-      p.mb-5 Para el adecuado manejo interno de los residuos peligros se pueden considerar varios aspectos para tener en cuenta: 
+      p.mb-5 Para el adecuado manejo interno de los residuos peligrosos se pueden considerar varios aspectos para tener en cuenta: 
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8
@@ -100,14 +101,14 @@
             span
               |  Manejo interno de residuos peligrosos. Aspectos 
           img(src="@/assets/curso/temas/tema2/img02.svg",alt="en la figuran se presentan los siguientes aspectos: Acondicionamiento, rotulado y etiquetado, movilización interna, almacenamiento.")
-
+          figcaption Fuente: SENA
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7
           .d-flex.align-items-center
             img.w-card-icon(src="@/assets/curso/temas/tema1/icono.svg")
             h3.bg13.py-2.w-card-text Acondicionamiento
 
-      p.mb-5 Para realizar el envasado, embalado o alistamiento de los residuos peligrosos debe hacerse una correcta y segura manipulación de estos. A continuación, se revisarán condiciones de manipulación:
+      p.mb-5 Para realizar el envasado, embalado o alistamiento de los residuos peligrosos, debe hacerse una correcta y segura manipulación de estos. A continuación, se revisarán condiciones de manipulación:
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8.bg9.p-4
@@ -375,7 +376,7 @@
             span
               |  Almacenamiento
           img(src='@/assets/curso/temas/tema2/img15.png', alt="En la figura se detallan todos los elementos que deben existir en una zona de almacenamiento de residuos peligrosos, se señalan elementos como puertas, iluminación, puntos de agua, ventilación, área de higienización, entre otras. ")
-
+          figcaption Fuente: SENA
       .py-3
         .col-sm-12.col-lg-7
           .d-flex
@@ -522,7 +523,7 @@
                 span
                   | Procedimiento manejo interno residuos peligrosos
               img(src='@/assets/curso/temas/tema2/img22.png', alt='En el diagrama se detallan los elementos de un plan de acción: -Estrategias operativas: plantea acciones a aplicar en caso de ocurrir una contingencia por manipulación, movilización o almacenamiento de residuos peligrosos. -Análisis de riesgos: identifica y evalúa cuáles son los eventos o condiciones que pueden ocasionar una emergencia. -Identificación de peligros y amenazas: el peligro es una situación con potencial de daño, enfermedad, lesiones, daños en edificaciones, ambientes de trabajo y medio ambiente.  la amenaza es la probabilidad de que un fenómeno natural o humano pueda causar daño y generar perdidas.')
-  
+              figcaption Fuente: SENA
       .py-4
       .row.justify-content-center
         .col-lg-12

@@ -189,15 +189,16 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-12
-          p.mb-5 Una fuente es el lugar donde se genera el residuo peligroso y los diferentes tipos de fuentes dependen del origen de generación, teniendo en cuenta esto el Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2007 nos presenta los siguientes tipos de fuentes: 
+          p.mb-5 Una fuente es el lugar donde se genera el residuo peligroso y los diferentes tipos de fuentes dependen del origen de generación, teniendo en cuenta lo anterior el Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2007 nos presenta los siguientes tipos de fuentes: 
         
         .col-lg-7
           .titulo-sexto.color-acento-contenido
             h5 Figura 3.
             span
               | Fuentes generadoras
-          img(src="@/assets/curso/temas/tema1/img08.svg", alt="En la imagen se presentan 4 imágenes que ejemplifican fuentes generadoras de RESPEL: actividades productivas, actividades del sector servicios, consumo de productos con características peligrosas y hogares. ")
-        
+          img(src="@/assets/curso/temas/tema1/img08.png", alt="En la imagen se presentan 4 imágenes que ejemplifican fuentes generadoras de RESPEL: actividades productivas, actividades del sector servicios, consumo de productos con características peligrosas y hogares. ")
+          figcaption Fuente:SENA
+          .py-2
         .col-lg-12
           p.mb-5 Para identificar fuentes generadoras de RESPEL y etapas donde podrian encontrarse, es importante revisar todo el proceso productivo y las áreas de soporte siguiendo cada uno de los siguientes pasos:
 
@@ -231,7 +232,7 @@
           img(src="@/assets/curso/temas/tema1/img09.png")
 
       p.mb-3
-        A continuación se presentan ejemplos sobre la manera de realizar el análisis de las fuentes generadoras de RESPEL:
+      p A continuación, se presentan ejemplos sobre la manera de realizar el análisis de las fuentes generadoras de RESPEL:
 
       h5.text-red.mb-5 Ejemplo 1. 
 
@@ -244,7 +245,7 @@
         img(src="@/assets/curso/temas/tema1/img10.svg", alt="en la figura se presenta un diagrama del proceso productivo de una empresa de alimentos, donde por medio de varios iconos se enuncian diferentes características de cada etapa. Dentro de esas características se encuentra:  -Produce ruido. -Produce olores -Produce residuos. -Emite gases -Produce vapor. -Se utiliza agua -Se utiliza energía.")
         figcaption #[b Fuente:] Instituto Tecnológico agroalimentario, s.f.
       .py-3
-      p.mb-5 Al diagramar el proceso productivo es posible Identificar etapas de generación de residuos peligrosos, se debe garantizar que se contemplan todas las actividades de la organización.
+      p.mb-5 Al diagramar el proceso productivo, es posible identificar etapas de generación de residuos peligrosos, donde se debe garantizar que se contemplan todas las actividades de la organización.
       h5.text-red.mb-5 Ejemplo 2. 
       .row.justify-content-center.align-items-center.mb-2
         .col-lg-8
@@ -274,24 +275,24 @@
               tbody.text-center
                 tr.gris
                   td Cambio de aceites y filtros.	
-                  td Aceite quemado, filtros usados, trapos y estopas
+                  td Aceite quemado, filtros usados, trapos y estopas.
                 tr
-                  td Lubricación
-                  td Lubricantes usados, trapos y estopas
+                  td Lubricación.
+                  td Lubricantes usados, trapos y estopas.
                 tr.gris
-                  td Cambio de frenos
-                  td Pastas, bandas, trapos y estopas
+                  td Cambio de frenos.
+                  td Pastas, bandas, trapos y estopas.
                 tr
-                  td Sincronización
-                  td No hay generación de RESPEL
+                  td Sincronización.
+                  td No hay generación de RESPEL.
 
                 tr.gris
-                  td Suspensión y dirección
-                  td Trapos y estopas, grasa
+                  td Suspensión y dirección.
+                  td Trapos y estopas, grasa.
 
                 tr
-                  td Cambio de llantas
-                  td Llantas usadas, trapos y estopas
+                  td Cambio de llantas.
+                  td Llantas usadas, trapos y estopas.
       h5.text-red.mb-3 Ejemplo 4. 
       p.mb-5 Al tomar cada actividad realizada por separado, se pueden analizar más eficazmente los residuos generados en cada una de ellas.
       .row.justify-content-center.align-items-center.mb-2
@@ -303,7 +304,7 @@
           img(src="@/assets/curso/temas/tema1/img12.svg", alt="En el plano se organizan los diferentes lugares del hospital y se señalan con rojos aquellos donde se generan residuos según la actividad que se realice.")
           figcaption Fuente: Tomado de CCB - SDA (2006)
       .py-3
-      m.b-3 Al realizar un plano de la organización se pueden identificar los puntos donde se generan los residuos peligrosos.
+      m.b-3 Al realizar un plano de la organización, se pueden identificar los puntos donde se generan los residuos peligrosos.
 
       separador
       #t_1_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -341,7 +342,7 @@
                 .col-lg-8.bg13.p-1
                   h4.text-center Inflamable
                 .py-2
-                  p.text-center Son aquellas sustancia o productos que tienen la capacidad de entrar en combustión, es decir de arder.
+                  p.text-center Son aquellas sustancias o productos que tienen la capacidad de entrar en combustión, es decir, de arder.
               
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center
@@ -351,7 +352,7 @@
                 .col-lg-8.bg13.p-1
                   h4.text-center Comburente
                 .py-2
-                  p.text-center Son sustancias y preparados que, en contacto con otras sustancias, en especial con sustancias inflamables, produzcan una reacción fuertemente exotérmica.
+                  p.text-center Son sustancias y preparados que, en contacto con otras sustancias, en especial con sustancias inflamables, producen una reacción fuertemente exotérmica.
               
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center
@@ -372,7 +373,7 @@
                 .col-lg-8.bg13.p-1
                   h4.text-center Tóxico
                 .py-2
-                  p.text-centerLas sustancias y preparados que, por inhalación, ingestión o penetración cutánea en pequeñas cantidades puedan provocar efectos agudos o crónicos e incluso la muerte.
+                  p.text-centerLas Son sustancias y preparados que, por inhalación, ingestión o penetración cutánea en pequeñas cantidades puedan provocar efectos agudos o crónicos e incluso la muerte.
               
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center
@@ -395,7 +396,7 @@
                   h4.text-center Peligrosos para el medio ambiente
 
                 .py-2
-                  p.text-center El contacto de esa sustancia con el medio ambiente puede provocar daños al ecosistema a corto o largo plazo. 
+                  p.text-center El contacto de esa sustancia con el medio ambiente, puede provocar daños al ecosistema a corto o largo plazo. 
       .row.justify-content-center.align-items-center.mb-2
         .col-lg-6
           .titulo-sexto.color-acento-contenido
@@ -403,6 +404,7 @@
             span
               |   Clasificación e identificación de características de peligrosidad
           img(src="@/assets/curso/temas/tema1/img14.svg", alt="en el diagrama se presentan las herramientas de apoyo para identificar características de peligrosidad: Listas de residuos, balance de masa, hojas de seguridad y caracterización analítica.")
+          figcaption Fuente: SENA
       .py-3  
       .color-primario.p-4
         .row.justify-content-center.align-items-center.p-3
@@ -421,7 +423,7 @@
                 .row.justify-content-center.p-1
                   .col-lg-12
                     h5.mb-3 Balance de masa
-                    p Teniendo como principio que las entradas en un proceso me van a generar unos productos y residuos, si se identifica en un balance de masas que residuos se tienen, se pueden consultar las listas de residuos peligrosos y verificar la peligrosidad de estos.
+                    p Teniendo como principio que las entradas en un proceso van a generar unos productos y residuos, si se identifica en un balance de masas qué residuos se tienen, se pueden consultar las listas de residuos peligrosos y verificar la peligrosidad de estos.
                   .col-lg-7
                     .titulo-sexto.color-acento-contenido
                       h5 Figura 8.
@@ -469,6 +471,7 @@
           span
             | Proceso de cuantificación
         img(src="@/assets/curso/temas/tema1/img18.png", alt="La figura presenta una secuencia donde se describen las acciones para realizar el proceso de cuantificación: utilizar los elementos de protección personal, clasificar, empacar y pesar.")
+        figcaption Fuente: SENA
       .py-4
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7
@@ -482,7 +485,7 @@
           .titulo-sexto.color-acento-contenido
             h5 Tabla 2.  
             span
-              |  Categoría de generadores de RESPEL
+              | Categoría de generadores de RESPEL
           .tabla-a.color-acento-contenido.mb-5
             table
               thead
@@ -491,14 +494,14 @@
                   th Generación de residuos o derechos peligrosos*
               tbody.text-center
                 tr.gris
-                  td Gran generador
-                  td ≥ 1000 kg/mes RESPEL generados
+                  td Gran generador.
+                  td ≥ 1000 kg/mes RESPEL generados.
                 tr
-                  td Mediano generador
-                  td ≥ 100 kg/mes RESPEL generados < 1000 kg/mes
+                  td Mediano generador.
+                  td ≥ 100 kg/mes RESPEL generados < 1000 kg/mes.
                 tr.gris
-                  td Pequeño generador
-                  td ≥ 10 kg/mes RESPEL generados < 100 kg/mes
+                  td Pequeño generador.
+                  td ≥ 10 kg/mes RESPEL generados < 100 kg/mes.
       
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
         .col-lg-9
@@ -608,7 +611,7 @@
                   td 136
                   td 521
                   td 657
-            figcaption caption Total RESPEL generados en el año 7514 kg
+            figcaption Total RESPEL generados en el año, 7514 kg
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8
@@ -697,7 +700,7 @@
               |  Alternativas.
           img(src='@/assets/curso/temas/tema1/img23.svg', alt='El diagrama consta de dos líneas de flujo donde se definen las palabras prevenir y Minimizar: Prevenir es tratar de evitar la generación de residuos peligrosos, a través de alternativas como la sustitución de materias primas peligrosas y una producción más limpia. Minimizar es disminuir la generación de residuos a través de practicas como reducir, recuperar, reusar y reciclar.') 
           .py-2
-          p.mb-5 Al realizar algunas modificaciones en diferentes etapas del proceso productivo, es posible prevenir y minimizar el riesgo de los residuos peligrosos sobre la salud y el medio ambiente. A continuación se ejemplifican varias modificaciones:
+          p.mb-5 Al realizar algunas modificaciones en diferentes etapas del proceso productivo, es posible prevenir y minimizar el riesgo de los residuos peligrosos sobre la salud y el medio ambiente. A continuación, se ejemplifican varias modificaciones:
 
 
       .row.mb-5
