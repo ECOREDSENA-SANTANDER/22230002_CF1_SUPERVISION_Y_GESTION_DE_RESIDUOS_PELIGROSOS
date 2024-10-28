@@ -189,7 +189,7 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-12
-          p.mb-5 Una fuente es el lugar donde se genera el residuo peligroso y los diferentes tipos de fuentes dependen del origen de generación, teniendo en cuenta lo anterior el Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2007 nos presenta los siguientes tipos de fuentes: 
+          p.mb-5 Una fuente es el lugar donde se genera el residuo peligroso y los diferentes tipos de fuentes dependen del origen de generación, teniendo en cuenta lo anterior, el Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2007 nos presenta los siguientes tipos de fuentes: 
         
         .col-lg-7
           .titulo-sexto.color-acento-contenido
@@ -271,7 +271,7 @@
           figcaption Fuente: Tomado de Quintero, (2009).
 
       .py-3
-      p.mb-3 Al diagramar el proceso productivo es posible identificar las materias primas y productos que tienen relación o inciden en la generación de residuos peligros.
+      p.mb-3 Al diagramar el proceso productivo, es posible identificar las materias primas y productos que tienen relación o inciden en la generación de residuos peligros.
       h5.text-red.mb-3 Ejemplo 3. 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8
